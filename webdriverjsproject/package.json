@@ -1,0 +1,12 @@
+{
+  "name": "webdriverjsproject",
+  "version": "1.0.0",
+  "description": "webdriverjs",
+  "main": "index.js",
+  "dependencies": {
+    "selenium-webdriver": "4.0.0-alpha.7"
+  },
+  "scripts": {},
+  "author": "First test author",
+  "license": "ISC"
+}

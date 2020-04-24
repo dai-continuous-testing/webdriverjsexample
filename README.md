@@ -3,7 +3,7 @@
 This project demonstrates Mobile Automation using Appium and JavaScript programming language.
 It used WebDriverJS project and explains how to develop test in Visual Studio Code
 
-Project is associated with the blog - Appium Automation using JavaScript - <>
+Project is associated with the blog - Appium Automation using JavaScript - https://experitest.com/appium-testing/follow-this-guide-to-set-up-appium-automation-using-javascript
 
 ### Steps to run demo test
 
@@ -43,7 +43,7 @@ Project is associated with the blog - Appium Automation using JavaScript - <>
       ```
 
 
-5. To know how execute the test, (Associated blog link - <>)
+5. To know how execute the test, (Associated blog link - https://experitest.com/appium-testing/follow-this-guide-to-set-up-appium-automation-using-javascript)
       * Please review the steps in **Creating First Test using WebDriverJS**.s
       * Please follow the section **Executing the Test**.
 
